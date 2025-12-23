@@ -1,8 +1,5 @@
 # Element Position Scanner (EPS)
 
-Fully functional demo presentation is available at https://eps-app.com  
-(with already preloaded test account at login)
-
 [![EPS Explainer Video](docs/EPS_youtube_screenshot.jpg)](https://www.youtube.com/embed/L238jRLsGqI?rel=0)
 
 EPS (Element Position Scanner) is a tool for businesses to efficiently monitor positions (rankings) of their products (and their competitors) on other websites.
@@ -39,18 +36,14 @@ Features
 
 EPS APP is a frontend React SPA (Single-page application) which retrieves data from EPS API via Axios calls. Users can view data in a table with search, sort, pagination, add/edit/delete functions and download in CSV or PDF format. Jest testing framework is used for testing.
 
-Fully functional demo presentation is available at https://eps-app.com  
-(with already preloaded test account at login)
 
 EPS APP1 - TypeScript implementation with simple visuals
 
 - Code: https://github.com/frank-hrom/eps-app1
-- Online demo: https://eps-app1.surge.sh
 
 EPS APP2 - JavaScript implementation with template visuals
 
 - Code: https://github.com/frank-hrom/eps-app2
-- Online demo: https://eps-app.com
 
 Features list
 
